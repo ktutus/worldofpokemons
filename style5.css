@@ -52,8 +52,8 @@ border-top: 0px;
       padding: 0px;
       border:7px solid #FEAA00 ;
       border-radius: 38px;
-       width: 900;
-    height: 700;
+       width: 400;
+    height: 500;
 }
      
   
@@ -82,6 +82,6 @@ p{
 }
 .big{
     text-align: center;
-    width: 1024;
-    height: 800;
+    width: 700;
+    height: 600;
 }
