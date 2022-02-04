@@ -77,3 +77,12 @@ p{
 .great{
     list-style: url("https://c.radikal.ru/c24/2202/cb/29c453f5725a.png");
 }
+.logo{
+   border: 0px;
+   border-radius: 0px;
+   text-align: left;
+   width: 50px;
+   height: 50px;
+   margin-left: 3px;
+   margin-top: 3px;
+ }
