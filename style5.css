@@ -1,5 +1,3 @@
-
-
 body{
   font-famile:sans-serif;
   }
@@ -31,7 +29,7 @@ header{
       text-align: center;
   }
   footer{
-      background-color:#3914AF ;
+      background-color:#3914AF;
   }
   footer p{
       background-color: white;
@@ -48,20 +46,18 @@ border-top: 0px;
   }
   img{
       text-align: center;
-     
+      margin: 30px;
       padding: 0px;
       border:7px solid #FEAA00 ;
       border-radius: 38px;
-      width:400;
-      height:600;
-    
-}
-     
-  
-.pag{
-  text-align: center;}
+      width: 450px;
+      height: 450px;
+  }
+  .pag{
+      text-align: center;
+  }
   a{
-      
+     
       text-decoration: none;
       color:red;
       background-color: white;
@@ -78,7 +74,3 @@ p{
 .great{
     list-style: url("https://c.radikal.ru/c24/2202/cb/29c453f5725a.png");
 }
-
-}
-p img{
-  text-align:center;}
