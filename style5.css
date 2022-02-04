@@ -59,6 +59,9 @@ border-top: 0px;
   
   .pag{
       text-align: center;
+width:1024;
+height:800;
+
         
   }
   a{
@@ -81,8 +84,8 @@ p{
 }
 .big{
     text-align: center;
-    width: 1024;
-    height: 800;
+    width: 600;
+    height: 700;
 }
 p img{
   text-align:center;}
