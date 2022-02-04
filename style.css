@@ -16,7 +16,7 @@ header{
   background-color:#3914AF;
   text-align: center;
   }
-  .glav{
+  .start{
       border:5px solid #FFFF00;
   }
   h1 {
@@ -69,5 +69,9 @@ border-top: 0px;
 text-align: right;
   }
 p{
-font-size:large;
+    font-size: large;
+}
+.great{
+  list-style: url("https://c.radikal.ru/c24/2202/cb/29c453f5725a.png");
+  
 }
