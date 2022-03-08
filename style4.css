@@ -92,3 +92,9 @@ border: 7px solid orangered;
 padding: 12px 17px 12px 17px ;
 border-radius:50px;
   }
+header a:hover{
+background-color: rgba(221, 221, 221, 0.918);
+border: 7px solid orangered;
+padding: 12px 17px 12px 17px ;
+border-radius:50px;
+  }
