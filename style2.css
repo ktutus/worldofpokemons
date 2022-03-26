@@ -59,19 +59,11 @@ border-top: 0px;
   .pag{
       text-align: center;
   }
-  a{
-      
-      text-decoration: none;
-      color:red;
-      background-color: white;
-      border:5px solid #3914AF;
-      border-radius: 17px;
-    padding:5px 9px 5px 9px;
-  }
+ 
+  
   .naverx {
 
     
-      position: fixed;
 text-decoration: none;
       color:red;
       background-color: white;
